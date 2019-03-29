@@ -1,0 +1,19 @@
+{
+  "name": "web-app-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate web application using React and Koa with TypeScript and Babel support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsilenzio/web-app-boilerplate.git"
+  },
+  "author": "Taylor Silenzio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsilenzio/web-app-boilerplate/issues"
+  },
+  "homepage": "https://github.com/tsilenzio/web-app-boilerplate#readme"
+}
